@@ -4,6 +4,7 @@
     border: 20px solid rgb(243, 46, 177);
     display: flex;
     justify-content: center;
+    align-items: center;
 }
 
 header {
@@ -49,5 +50,15 @@ section {
 }
 
 footer {
-    justify-items: end;
+    border: 20px solid rgb(243, 46, 177);
+    display: flex;
+    align-items: center;
+    
+}
+
+ul {
+    justify-content: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
