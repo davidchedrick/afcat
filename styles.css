@@ -1,0 +1,53 @@
+
+.parent {
+    height: 100vh;
+    border: 20px solid rgb(243, 46, 177);
+    display: flex;
+    justify-content: center;
+}
+
+header {
+    width: 300px;
+    height: 200px;
+    background-color: rgb(77, 240, 186);
+    border: solid black 10px;
+}
+
+section {
+    width: 300px;
+    height: 200px;
+    background-color: rgb(248, 10, 58);
+    padding: 10px;
+    border: solid black 10px;
+}
+
+.about-me {
+    width: 300px;
+    height: 100px;
+    background-color: rgb(44, 77, 221);
+    margin: 10px;
+    border: solid black 10px;
+    border-radius: 15px;
+}
+
+#circle {
+    width: 50px;
+    height: 50px;
+    border-radius: 360%;
+    background-color: rgba(255, 0, 170);
+    border: solid black 10px;
+    border-style: double;
+    margin: auto;
+           
+}
+
+#catpic {
+    width: 50px;
+    height: 50px;
+    border-radius: 90%;
+    
+}
+
+footer {
+    justify-items: end;
+}
